@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "698262445131",
+    "firebase_url": "https://corpchatbr.firebaseio.com",
+    "project_id": "corpchatbr",
+    "storage_bucket": "corpchatbr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698262445131:android:8a2abd2dfa7c1465",
+        "android_client_info": {
+          "package_name": "com.corpchatbr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698262445131-sdho8uspscu611d1ge5juunckhk6ij0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nLZ-Y_YcxFB7yaDD35OxMw0NUWh9eLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698262445131-sdho8uspscu611d1ge5juunckhk6ij0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
